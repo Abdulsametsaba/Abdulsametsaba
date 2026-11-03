@@ -4,7 +4,7 @@
 </picture>
 
 <p>
-  <a href="https://linkedin.com/in/abdul-samet-saba"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-night.svg" /><img src="assets/link-linkedin-day.svg" alt="LinkedIn" height="36" /></picture></a>
+  <a href="https://www.linkedin.com/in/abdul-samet-saba-b28627254/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-night.svg" /><img src="assets/link-linkedin-day.svg" alt="LinkedIn" height="36" /></picture></a>
   <a href="mailto:sametsaba84@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-night.svg" /><img src="assets/link-email-day.svg" alt="Email" height="36" /></picture></a>
   <a href="https://github.com/Abdulsametsaba?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-night.svg" /><img src="assets/link-github-day.svg" alt="GitHub repositories" height="36" /></picture></a>
 </p>
