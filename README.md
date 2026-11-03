@@ -41,20 +41,14 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-night.svg" />
-  <img width="100%" src="assets/tools-day.svg" alt="Tools I use. AI and agents: LLMs, prompt engineering, AWS Bedrock, multimodal AI, Whisper. ML and deep learning: PyTorch, TensorFlow, Scikit-learn. Reinforcement learning: PPO, DQN, A3C, MAPPO, Unity ML-Agents. Backend and data: Python, SQL, FastAPI, Pydantic, PostgreSQL, MySQL." />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-night.svg" />
+  <img width="100%" src="assets/label-stack-day.svg" alt="Tech Stack" />
 </picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abdulsametsaba&show_icons=true&include_all_commits=true&count_private=true&locale=en&bg_color=0E1116&title_color=E9ECF1&text_color=AAB1BC&icon_color=A5B4FC&ring_color=A5B4FC&hide_border=true&disable_animations=true" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=Abdulsametsaba&show_icons=true&include_all_commits=true&count_private=true&locale=en&bg_color=F6F7F9&title_color=11151B&text_color=434A55&icon_color=4F46E5&ring_color=4F46E5&hide_border=true&disable_animations=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulsametsaba&langs_count=8&locale=en&layout=compact&bg_color=0E1116&title_color=E9ECF1&text_color=AAB1BC&hide_border=true&disable_animations=true" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulsametsaba&langs_count=8&locale=en&layout=compact&bg_color=F6F7F9&title_color=11151B&text_color=434A55&hide_border=true&disable_animations=true" alt="Top languages" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-night.svg" />
+  <img width="100%" src="assets/stack-day.svg" alt="Tech stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face, FastAPI, AWS Bedrock, PostgreSQL, Docker, Git." />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulsametsaba/Abdulsametsaba/output/github-contribution-grid-snake-dark.svg" />
