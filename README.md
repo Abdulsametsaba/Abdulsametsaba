@@ -50,9 +50,4 @@
   <img width="100%" src="assets/stack-day.svg" alt="Tech stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Hugging Face, FastAPI, AWS Bedrock, PostgreSQL, Docker, Git." />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulsametsaba/Abdulsametsaba/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Abdulsametsaba/Abdulsametsaba/output/github-contribution-grid-snake.svg" alt="Contribution graph being eaten by a snake" />
-</picture>
-
 <a href="mailto:sametsaba84@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-night.svg" /><img width="100%" src="assets/contact-day.svg" alt="Open to AI / ML Engineer roles. Write to me about a role or a project. sametsaba84@gmail.com" /></picture></a>
