@@ -36,11 +36,6 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-tools-night.svg" />
-  <img width="100%" src="assets/label-tools-day.svg" alt="Tools" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-night.svg" />
   <img width="100%" src="assets/label-stack-day.svg" alt="Tech Stack" />
 </picture>
